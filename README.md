@@ -1,2 +1,5 @@
-# css-loading
-css画loading
+# css画loading
+
+## 效果预览
+[](./images/loading.gif)
+
